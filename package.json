@@ -2,11 +2,11 @@
   "name": "clean-architecture-folder-structure",
   "displayName": "Clean Architecture Folder Structure",
   "description": "Add new modules easily with well structured directories (Clean Architecture pattern)",
-  "version": "1.0.9",
-  "publisher": "KiritchoukC",
+  "version": "2.0.0",
+  "publisher": "Pedro Lemos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KiritchoukC/vscode-ext_flutter-clean-architecture"
+    "url": "https://github.com/pedrolemoz/clean-architecture-folder-structure"
   },
   "license": "MIT",
   "engines": {
